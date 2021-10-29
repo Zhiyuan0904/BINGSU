@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\BINGSU\BINGSU\BINGSU\obj\Debug\BINGSU.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BINGSU\BINGSU\BINGSU\obj\Debug\BINGSU.Form1.resources
+C:\Users\Lenovo\Desktop\BINGSU\BINGSU\BINGSU\obj\Debug\BINGSU.Resources.resources
+C:\Users\Lenovo\Desktop\BINGSU\BINGSU\BINGSU\obj\Debug\BINGSU.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\BINGSU\BINGSU\BINGSU\obj\Debug\BINGSU.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BINGSU\BINGSU\BINGSU\bin\Debug\BINGSU.exe.config
+C:\Users\Lenovo\Desktop\BINGSU\BINGSU\BINGSU\bin\Debug\BINGSU.exe
+C:\Users\Lenovo\Desktop\BINGSU\BINGSU\BINGSU\bin\Debug\BINGSU.pdb
+C:\Users\Lenovo\Desktop\BINGSU\BINGSU\BINGSU\bin\Debug\BINGSU.xml
+C:\Users\Lenovo\Desktop\BINGSU\BINGSU\BINGSU\obj\Debug\BINGSU.exe
+C:\Users\Lenovo\Desktop\BINGSU\BINGSU\BINGSU\obj\Debug\BINGSU.xml
+C:\Users\Lenovo\Desktop\BINGSU\BINGSU\BINGSU\obj\Debug\BINGSU.pdb

@@ -1,0 +1,211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BINGSU
+</name>
+</assembly>
+<members>
+<member name="T:BINGSU.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BINGSU.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BINGSU.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.FlavourDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.HandpackedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.IceCreamBaseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.IngredientsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.ListStockCategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.ToppingsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.RelationshipDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.FlavourRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.HandpackedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.IceCreamBaseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.IngredientsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.ListStockCategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.ToppingsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.RelationshipRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.FlavourRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.HandpackedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.IceCreamBaseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.IngredientsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.ListStockCategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.ToppingsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSet.RelationshipRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSetTableAdapters.FlavourTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSetTableAdapters.HandpackedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSetTableAdapters.IceCreamBaseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSetTableAdapters.IngredientsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSetTableAdapters.ListStockCategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSetTableAdapters.ToppingsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSetTableAdapters.RelationshipTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:BINGSU.VBPROJECTDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BINGSU.VBPROJECTDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:BINGSU.VBPROJECTDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BINGSU.VBPROJECTDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:BINGSU.VBPROJECTDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BINGSU.VBPROJECTDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:BINGSU.VBPROJECTDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:BINGSU.VBPROJECTDataSetTableAdapters.TableAdapterManager.UpdateAll(BINGSU.VBPROJECTDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:BINGSU.VBPROJECTDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
