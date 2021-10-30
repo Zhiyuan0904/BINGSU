@@ -73,17 +73,48 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.vb">
+    <Compile Include="Flavour.Designer.vb">
+      <DependentUpon>Flavour.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Flavour.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <Compile Include="Handpacked.Designer.vb">
+      <DependentUpon>Handpacked.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Handpacked.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IceCreamBase.Designer.vb">
+      <DependentUpon>IceCreamBase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IceCreamBase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingredient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingredient.Designer.vb">
+      <DependentUpon>Ingredient.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListStockCategory.Designer.vb">
+      <DependentUpon>ListStockCategory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ListStockCategory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.vb">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
       <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="My Project\Resources.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -95,21 +126,54 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Topping.Designer.vb">
+      <DependentUpon>Topping.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Topping.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="VBPROJECTDataSet.Designer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>VBPROJECTDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="WelcomePage.Designer.vb">
+      <DependentUpon>WelcomePage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomePage.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <EmbeddedResource Include="Flavour.resx">
+      <DependentUpon>Flavour.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Handpacked.resx">
+      <DependentUpon>Handpacked.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IceCreamBase.resx">
+      <DependentUpon>IceCreamBase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingredient.resx">
+      <DependentUpon>Ingredient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListStockCategory.resx">
+      <DependentUpon>ListStockCategory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Topping.resx">
+      <DependentUpon>Topping.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomePage.resx">
+      <DependentUpon>WelcomePage.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
